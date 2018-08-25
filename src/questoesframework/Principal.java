@@ -17,6 +17,7 @@ public class Principal {
       fv.fazerVoar(m);
       fv.fazerVoar(a);
       
+      System.out.println("oi");
     
     }
     
